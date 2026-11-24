@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.log
+.pytest_cache/
+
+# создаётся скриптами обучения
+models/
+outputs/
+
+test.png
