@@ -1,0 +1,11 @@
+{
+  "labels": [
+    "joy",
+    "sadness",
+    "tiredness",
+    "anger",
+    "surprise",
+    "confusion"
+  ],
+  "confidence_threshold": 0.4
+}
